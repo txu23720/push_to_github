@@ -80,7 +80,7 @@ git branch -M main
 
 
 ```bash
-git remote add origin [https://github.com/你的用户名/你的项目名.git](https://github.com/你的用户名/你的项目名.git)
+git remote add origin https://github.com/你的用户名/你的项目名.git
 ```
 作用：告诉本地 Git，我们要推送的目标服务器地址在哪里，并给它起个别名叫 origin。
 
