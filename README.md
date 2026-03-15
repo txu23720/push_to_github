@@ -200,7 +200,7 @@ git branch -M main
 **(注意：请将下方命令中的 `https://github.com/UserName/ProjectName.git` 替换为你自己在 GitHub 网页上复制的真实仓库地址，不要保留任何括号)**
 
 ```bash
-git remote add origin [https://github.com/UserName/ProjectName.git](https://github.com/UserName/ProjectName.git)
+git remote add origin https://github.com/你的用户名/你的仓库名.git
 ```
 
 ### 5. 将本地代码推送到云端
